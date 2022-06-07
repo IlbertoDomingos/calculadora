@@ -1,1 +1,4 @@
 # calculadora
+
+---
+**Autor:** Ilberto Domingos
