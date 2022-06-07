@@ -1,4 +1,4 @@
-# calculadora
+# Calculadora
 
 ---
 **Autor:** Ilberto Domingos <ilbertodesousa@gmail.com>
